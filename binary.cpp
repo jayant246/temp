@@ -3,6 +3,9 @@ using namespace std;
 
 int main(){
 	first();
-	second();
+	second(x, y);
+	cout << "jayant";
+	third();
+	cout << "sharma";
 	return 0;
 }
